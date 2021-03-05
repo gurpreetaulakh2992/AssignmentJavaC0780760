@@ -4,7 +4,7 @@ import javax.swing.*;
 
 
 public class llcClasses {
-    //Credential detail
+    //Variable declaration for Credential detail
     private String userName;
     private String passWord;
 
