@@ -1,6 +1,11 @@
 package com.GurpreetKaurC0780760;
-
 import javax.swing.*;
+
+/**
+ * to run this program enter
+ * username = gurpreet
+ * password=12345
+ */
 
 public class assignment5 {
     public static void main(String[] args)

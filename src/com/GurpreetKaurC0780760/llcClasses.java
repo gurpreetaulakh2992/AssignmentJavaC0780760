@@ -160,7 +160,7 @@ public class llcClasses {
 
     }
 
-    //method for total
+    //method to
     public float totalAmount()
     {
         total=this.serviceCost+this.optionCost+this.itemCost;
