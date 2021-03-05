@@ -13,7 +13,7 @@ public class llcClasses {
     private String firstName;
     private String lastName;
 
-    //variable for choices,options and items
+    //variable for choices,options and items selection
     private String services;
     private String options;
     private String items;
