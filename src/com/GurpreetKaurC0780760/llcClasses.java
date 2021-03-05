@@ -28,7 +28,7 @@ public class llcClasses {
     public llcClasses() {
     }
 
-    //constructor overloading
+    //constructor overloading using userName and password
     public llcClasses(String userName,String passWord)
     {
         this.userName=userName;
