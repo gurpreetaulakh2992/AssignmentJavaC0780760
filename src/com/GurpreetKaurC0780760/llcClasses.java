@@ -126,7 +126,7 @@ public class llcClasses {
     }
 
     public int getServiceCost() {
-        JOptionPane.showMessageDialog(null,"Service cost is "+serviceCost);
+        JOptionPane.showMessageDialog(null,"Service cost is $"+serviceCost);
         return serviceCost;
     }
 
@@ -135,7 +135,7 @@ public class llcClasses {
     }
 
     public float getOptionCost() {
-        JOptionPane.showMessageDialog(null,"Option cost is "+optionCost);
+        JOptionPane.showMessageDialog(null,"Option cost is $"+optionCost);
         return optionCost;
     }
 
@@ -144,7 +144,7 @@ public class llcClasses {
     }
 
     public float getItemCost() {
-        JOptionPane.showMessageDialog(null,"Item cost is "+itemCost);
+        JOptionPane.showMessageDialog(null,"Item cost is $"+itemCost);
         return itemCost;
     }
 
