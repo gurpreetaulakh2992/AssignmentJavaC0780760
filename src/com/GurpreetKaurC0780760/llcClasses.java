@@ -17,6 +17,8 @@ public class llcClasses {
     private String services;
     private String options;
     private String items;
+
+    //declare variable for cost
     private int serviceCost;
     private float optionCost;
     private float itemCost;
