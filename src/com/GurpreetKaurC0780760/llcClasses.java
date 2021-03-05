@@ -23,7 +23,7 @@ public class llcClasses {
     private float optionCost;
     private float itemCost;
 
-    //variable for total cost
+    //variable total cost
     float total;
 
     // empty constructor
