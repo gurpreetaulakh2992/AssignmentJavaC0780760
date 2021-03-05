@@ -135,6 +135,7 @@ public class llcClasses {
     }
 
     public float getOptionCost() {
+        JOptionPane.showMessageDialog(null,"Option cost is "+optionCost);
         return optionCost;
     }
 
@@ -143,6 +144,7 @@ public class llcClasses {
     }
 
     public float getItemCost() {
+        JOptionPane.showMessageDialog(null,"Item cost is "+itemCost);
         return itemCost;
     }
 
