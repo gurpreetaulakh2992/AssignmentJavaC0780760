@@ -22,7 +22,7 @@ public class assignment5 {
                 test.totalAmount();
                 break;
             } else {
-                JOptionPane.showMessageDialog(null, "Username or password dont match");
+                JOptionPane.showMessageDialog(null, "Username or password not match");
                 if(i==3){
                     JOptionPane.showMessageDialog(null, "You have exceeded your try’s, goodbye.”");
                 }
