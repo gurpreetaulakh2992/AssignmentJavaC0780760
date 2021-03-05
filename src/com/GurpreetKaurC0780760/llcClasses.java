@@ -35,6 +35,7 @@ public class llcClasses {
         this.passWord=passWord;
     }
 
+    //get user first and last name
     public String getFirstName() {
         firstName = JOptionPane.showInputDialog(null, "Please enter your first name");
         return firstName;
