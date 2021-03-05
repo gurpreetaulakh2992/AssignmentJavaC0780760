@@ -147,7 +147,7 @@ public class llcClasses {
         this.itemCost = itemCost;
     }
 
-    //method to check user credential and limit upto 3 tries
+    //method to verify user credential
     public boolean checkUserCredentials() {
         String username = JOptionPane.showInputDialog(null, "Enter username");
         String password = JOptionPane.showInputDialog(null, "Enter password");
