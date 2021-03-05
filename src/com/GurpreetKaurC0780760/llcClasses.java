@@ -50,7 +50,7 @@ public class llcClasses {
         return lastName;
     }
 
-    //getter and setters for options, items and services
+    //get services, options and items from user
     public String getServices() {
         services = JOptionPane.showInputDialog(null, "Please select services(Enter A or B for selection and " +
                 "press any other character to skip)"+
